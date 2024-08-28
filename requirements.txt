@@ -1,0 +1,10 @@
+openai
+langchain
+huggingface
+langchain-community
+ctransformers
+sentence-transformers
+pinecone-client
+flask
+pypdf
+python-dotenv
